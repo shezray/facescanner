@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'VT323', monospace;
+    background: linear-gradient(to right, rgb(255, 46, 140), rgb(255, 163, 163));
+}
+
+button {
+	cursor: pointer;
+}
+
